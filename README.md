@@ -30,10 +30,12 @@ Performed RFM (Recency, Frequency, Monetary) analysis to segment customers into 
     P0: High-value, frequent customers with recent transactions.
     P1: Mid-value customers with moderate frequency and recency.
     P2: Lower-value customers with less frequent transactions.
+    
 Tools and Libraries   
     Python: Core programming language.
     Pandas: Data manipulation and analysis.
     Seaborn and Matplotlib: Data visualization.
     Scipy: Statistical analysis.
+    
 Data Source
     The Superstore dataset can be found https://www.kaggle.com/datasets/regivm/retailtransactiondata
