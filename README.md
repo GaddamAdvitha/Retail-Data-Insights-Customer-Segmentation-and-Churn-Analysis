@@ -43,4 +43,4 @@ Performed RFM (Recency, Frequency, Monetary) analysis to segment customers into 
 - **Scipy**: Statistical analysis.
 
 ## **Data Source**
-The Superstore dataset can be found [here](https://www.kaggle.com/datasets/regivm/retailtransactiondata).
+The Retail Transaction Data dataset can be found [here](https://www.kaggle.com/datasets/regivm/retailtransactiondata).
